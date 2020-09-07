@@ -1,0 +1,9 @@
+GeneMap99_G3_gPCR_default 1
+GeneMap99_GB4_gPCR_default 1
+Genethon_gPCR_default 5
+Marshfield_gPCR_default 5
+NCBI_RH_gPCR_default 1
+Stanford_G3_gPCR_default 1
+TNG_gPCR_default 1
+Whitehead_RH_gPCR_default 1
+deCODE_gPCR_default 5
