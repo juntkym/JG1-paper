@@ -1,5 +1,6 @@
 # JG1-paper
 scripts for JG1 paper
+https://zenodo.org/badge/292553026.svg
 
 - replace `/path/to/` to the appropriate path before use
 
